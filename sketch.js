@@ -1,5 +1,6 @@
-https://editor.p5js.org/3nicholaspatrick3/sketches/J18lallHr
 /*
+https://editor.p5js.org/3nicholaspatrick3/sketches/J18lallHr
+
 Instructions:
 1. click to draw points. more points --> more precision but your computer will need to work harder
 2. press d when you're done.
